@@ -6,3 +6,6 @@ __pycache__/
 *.safetensors
 data/
 .vscode/
+submission.bundle
+git_reflog.txt
+module0_full_submission.zip
